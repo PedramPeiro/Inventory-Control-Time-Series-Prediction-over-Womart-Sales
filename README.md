@@ -30,7 +30,6 @@ All of these models are assessed using different metrics:
 
 ## Best Model
 Among all of these different approches, best model was **Seasonal Exponential Smoothing with \alpha=0.9 and c=0.7**
-![image](https://user-images.githubusercontent.com/102898063/162277227-138a3647-36f9-4037-9628-4ad0d14a28f6.png)
-
+![image](https://user-images.githubusercontent.com/102898063/162277629-28dd64fb-0d61-4531-8692-80cb22946f66.png)
 You can have a better reveiw and understanding of the whole project in the pdf attached to this folder.
 Thanks for your time.
